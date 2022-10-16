@@ -1,6 +1,8 @@
 # cat_dog_classifier
 
-A new Flutter project.
+Cat & Dog Classifier - An Artificial Intelligence Mobile Application developed by Flutter (Dart)
+
+Video Demonstration - [https://youtu.be/ZxaEXFvK8xA]
 
 ## Getting Started
 
